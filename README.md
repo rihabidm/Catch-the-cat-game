@@ -15,7 +15,7 @@ Welcome to CatchTheCat, an engaging strategy game implemented in Python! This pr
 ## Project Structure
 
 - `chat.py`: The main script implementing the CatchTheCat game using Minimax and Alpha-Beta Pruning.
-- `gui.py`: A GUI file with potential improvements and visual enhancements for future iterations.
+- `GUI futur`: A GUI file with potential improvements and visual enhancements for the interface and future iterations.
 
 ## Requirements
 
@@ -35,7 +35,7 @@ python chat.py
 
 ## Future Improvements
 
-Explore the `gui.py` file for potential enhancements to the game interface. Feel free to contribute and share your ideas for making CatchTheCat even more enjoyable!
+Explore the `GUI futur` file for potential enhancements to the game interface. Feel free to contribute and share your ideas for making CatchTheCat even more enjoyable!
 
 
 Enjoy Catching the Cat! 🐾🎮
