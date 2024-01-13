@@ -6,7 +6,7 @@ Welcome to CatchTheCat, an engaging strategy game implemented in Python! This pr
 
 ## How to Play
 
-1. Run the `catch_the_cat.py` file to start the game.
+1. Run the `chat.py` file to start the game.
 2. Click on a grid cell to make your move and attempt to trap the cat.
 3. The cat will use Minimax and Alpha-Beta Pruning to strategize its escape.
 4. Keep making moves until the cat is either caught or successfully reaches its escape zone.
