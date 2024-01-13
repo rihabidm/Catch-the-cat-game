@@ -14,9 +14,8 @@ Welcome to CatchTheCat, an engaging strategy game implemented in Python! This pr
 
 ## Project Structure
 
-- `catch_the_cat.py`: The main script implementing the CatchTheCat game using Minimax and Alpha-Beta Pruning.
+- `chat.py`: The main script implementing the CatchTheCat game using Minimax and Alpha-Beta Pruning.
 - `gui.py`: A GUI file with potential improvements and visual enhancements for future iterations.
-- `utils.py`: Utility functions supporting the game logic and algorithms.
 
 ## Requirements
 
@@ -31,7 +30,7 @@ pip install -r requirements.txt
 Execute the following command in your terminal:
 
 ```bash
-python catch_the_cat.py
+python chat.py
 ```
 
 ## Future Improvements
